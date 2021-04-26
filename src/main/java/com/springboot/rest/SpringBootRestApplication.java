@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootRestApplication {
 
 	public static void main(String ar[]) {
+		System.out.println("holo");
+		//holoe
 		SpringApplication.run(SpringBootRestApplication.class, ar);
 	}
 }
